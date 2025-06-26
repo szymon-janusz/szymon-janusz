@@ -8,7 +8,7 @@
 
 ## 🎯 About me
 
-Graduated from an IT technical school with a passion for data analysis and IT technologies. I’ve completed several courses in **SQL **, ** Python**, and **BI tools**, and I enjoy transforming raw data into actionable insights. ([pl.linkedin.com][1])
+Graduated from an IT technical school with a passion for data analysis and IT technologies. I’ve completed several courses in **SQL**, **Python**, and **BI tools**, and I enjoy transforming raw data into actionable insights. ([pl.linkedin.com][1])
 
 ---
 
