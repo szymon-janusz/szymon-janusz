@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I’m **Szymon Janusz**
 
-<!--
-**szymon-janusz/szymon-janusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst** | Excel • SQL • Tableau • Power BI
 
-Here are some ideas to get you started:
+📍 Based in Przeworsk, Poland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 About me
+
+Graduated from an IT technical school with a passion for data analysis and IT technologies. I’ve completed several courses in **SQL **, ** Python**, and **BI tools**, and I enjoy transforming raw data into actionable insights. ([pl.linkedin.com][1])
+
+---
+
+## 🚀 What I Do
+
+* 🛠 **Excel** – automate workflows, pivot tables, data cleaning
+* 🗄️ **SQL** – write efficient queries for extraction and data transformation
+* 📊 **Tableau & Power BI** – create interactive dashboards and visual analytics
+* 💡 **Data storytelling** – turn numbers into clear, business-focused recommendations
+
+---
+
+## 📚 Projects
+
+Explore my key repositories (detailed READMEs available):
+
+| Project                             | Skills               | Description                                                                             |
+| ----------------------------------- | -------------------- | --------------------------------------------------------------------------------------- |
+| **CDPR Sales Revenue Analysis**     | Excel                |  Analysis of the impact of patches and DLC on sales and forecast versions of the trend. |
+
+---
+
+### 🔭 I’m currently working on
+- Enhancing my SQL and Excel skills by building interactive dashboards and automating data workflows.
+- Developing sample projects in various RDDMS and using **Tableau** and **Power BI** to showcase practical scenarios and data storytelling.
+
+---
+
+## 🔍 Looking for Opportunities
+
+I’m actively seeking **full-time roles** in Data Analytics / Business Intelligence.
+Feel free to connect or reach out – let’s build data-driven solutions together!
+
+📫 You can contact me via: [LinkedIn](https://www.linkedin.com/in/szymon-janusz/) • email: [szymonjanusz0613@gmail.com](mailto:szymonjanusz0613@gmail.com)
+
+---
+
+**Let’s connect!** If any of my projects resonate with you, I'd love to collaborate or receive feedback.
