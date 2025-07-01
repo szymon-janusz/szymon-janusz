@@ -28,7 +28,7 @@ Explore my key repositories (detailed READMEs available):
 | Project                             | Skills               | Description                                                                                         |
 | ----------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------- |
 | **CDPR Sales Revenue Analysis**     | Excel                |  Analysis of the impact of patches and DLC on sales and forecast versions of the trend              |
-| **Technical High School Promotion** | PowerPoint           |  Graphical representation of the pros of one of the Polish technical high schools in a presentation |
+| **Technical High School Promotion** | PowerPoint           |  Graphical representation of the pros of one of the Polish technical high school in a presentation |
 
 ---
 
