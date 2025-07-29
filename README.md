@@ -28,6 +28,7 @@ Explore my key repositories (detailed READMEs available):
 | Project                             | Skills               | Description                                                                                         |
 | ----------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------- |
 | **CDPR Sales Revenue Analysis**     | Excel, SQL, Tableau  |  Analysis of the impact of patches and DLC on sales against the background of reviews and forecast versions of the trend              |
+| **Spotyfi Top 50 Analysis** | SQL, PowerBI         | Analysis of Top‑50 Spotify song data from 73 countries - enabling interactive exploration |
 | **Technical High School Promotion** | PowerPoint           |  Graphical representation of the pros of one of the Polish technical high school using a presentation |
 
 ---
