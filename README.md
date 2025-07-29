@@ -14,10 +14,10 @@ Graduated from an IT technical school with a passion for data analysis and IT te
 
 ## 🚀 What I Do
 
-* 🛠 **Excel** – automate workflows, pivot tables, data cleaning
-* 🗄️ **SQL** – write efficient queries for extraction and data transformation
-* 📊 **Tableau & Power BI** – create interactive dashboards and visual analytics
-* 💡 **Data storytelling** – turn numbers into clear, business-focused recommendations
+* 🛠 **Excel** - automate workflows, pivot tables, data cleaning
+* 🗄️ **SQL** - write efficient queries for extraction and data transformation
+* 📊 **Tableau & Power BI** - create interactive dashboards and visual analytics
+* 💡 **Data storytelling** - turn numbers into clear, business-focused recommendations
 
 ---
 
