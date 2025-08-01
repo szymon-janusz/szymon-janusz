@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Szymon Janusz**
 
-**Aspiring Data Analyst** | Excel • SQL • Tableau
+**Aspiring Data Analyst**
 
 📍 Based in Przeworsk, Poland
 
