@@ -27,9 +27,9 @@ Explore my key repositories (detailed READMEs available):
 
 | Project                             | Skills               | Description                                                                                         |
 | ----------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------- |
-| [**CDPR Sales Revenue Analysis**](https://github.com/szymon-janusz/cdpr-data-analysis)     | Excel, SQL, Python, Tableau  |  Analysis of the impact of patches and DLC on sales against the background of reviews and forecast versions of the trend              |
-| **Spotify Analysis** | SQL, PowerBI         | Analysis of Top 50 Spotify song data from 73 countries - enabling interactive exploration |
-| **Technical High School Promotion** | PowerPoint           |  Graphical representation of the pros of one of the Polish technical high school using a presentation |
+| [**CDPR Sales Revenue Analysis**](github.com/szymon-janusz/cdpr-data-analysis)     | Excel, SQL, Python, Tableau  |  Analysis of the impact of patches and DLC on sales against the background of reviews and forecast versions of the trend              |
+| [**Spotify Analysis**](github.com/szymon-janusz/spotify-top50-data-analysis) | SQL, PowerBI         | Analysis of Top 50 Spotify song data from 73 countries - enabling interactive exploration |
+| [**Technical High School Promotion**](github.com/szymon-janusz/school-promotion-presentation) | PowerPoint           |  Graphical representation of the pros of one of the Polish technical high school using a presentation |
 
 ---
 
